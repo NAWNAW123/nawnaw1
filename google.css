@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+    font-size: 80px;
+}
+.g{color: blue;}
+.O{color: red;}
+.p{color: yellow;}
+.l{color: green;}
+input{
+    width: 500px;
+}

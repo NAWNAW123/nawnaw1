@@ -1,0 +1,12 @@
+.meh{
+    border-style: solid;
+    height: 250px;
+
+}
+img{
+    float: right;
+    height: 100px;
+    width: 100px;
+    padding-top: 2px;
+    padding-right: 2px;
+}
