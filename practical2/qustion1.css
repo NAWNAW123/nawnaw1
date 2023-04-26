@@ -1,0 +1,28 @@
+body{
+    background-color: gray;
+}
+#all{
+    background-color:white;
+    width:80%;
+    margin:20px auto;
+    padding:20px;
+}
+
+#menu p {
+    display: inline-block;
+    margin: 0 20px 0;
+
+{
+#menu p{last-of-type 
+
+    margin-right: 0;
+}
+#ratting{
+    background-color: green;
+    color:white;
+    font-size:30pt;
+    padding:20px;
+    margin:20px;
+    display: inline box;
+}
+
